@@ -10,11 +10,7 @@ export default function CallToAction() {
             <p className='text-gray-500 my-2'>
                 Checkout these resources with 100 JavaScript Projects
             </p>
-            <Button gradientDuoTone='purpleToPink' className='rounded-tl-xl rounded-bl-none'>
-                <a href="#" target='_blank' rel='noopener noreferrer'>
-                    100 JavaScript Projects
-                </a>
-            </Button>
+         
         </div>
         <div className="p-7 flex-1">
             <img src="https://bairesdev.mo.cloudinary.net/blog/2023/08/What-Is-JavaScript-Used-For.jpg" />
